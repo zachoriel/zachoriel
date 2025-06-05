@@ -25,7 +25,6 @@ Thanks for stopping by! 🙂
 - Chilchillas can jump over 6 feet upwards — and I happen to live with one who rules my apartment like a fuzzy, loveable tyrant.
 - Cleopatra lived closer in time to the modern day than to the construction of the pyramids.
 - The Anglo-Portuguese Alliance is the world's longest continuously existing alliance in history, dating back to 1373. It was last invoked in 1982 during the Falklands war, and before that in 1943 during World War Two — despite Portuguese President António de Oliveira Salazar being Axis-aligned in a dictatorial regime.
-- The east-African autonomous region of Somaliland has operated as a de-facto independent nation for decades, despite receiving no formal recognition on the world stage due to Somalia's claims on the territory. Nevertheless, Somaliland has their own stable government/political process, currency, legal system, and military. In 2024, Ethiopia nearly became the first UN nation to recognize Somaliland's sovereignty, but the agreement collapsed after Somalian protest.
 - 94% of the universe's galaxies are pemanently beyond our sight. The universe is constantly expanding, and moreover, the galaxies within it are also <i>accelerating</i>; most galaxies are estimated to already be receding from us faster than the speed of light. This means that the light emitted from these galaxies will never reach us, and we've effectively missed our chance to observe nearly all of the universe, simply by being billions of years too late.
 
 <!--
