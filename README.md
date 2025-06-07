@@ -12,10 +12,11 @@ Thanks for stopping by! 🙂
 
 <b>About Me:</b>
 
+- Education: Bachelor of Science in Computer Science from Southern New Hampshire University, graduated Summa Cum Laude with a 3.9 GPA. 
 - Core Skills: C#, Unity, TypeScript, JavaScript, Python, Git, CI/CD, Azure DevOps.
-- Currently Working On: Spellcircuit (third-person spellcasting roguelite), personal website, and an unnamed cozy forest adventure game.
-- Currently Learning: Ruby on Rails, UE5.
 - Ask Me About: The time I automated an entire team's art integration pipeline, or the time I made a small family business become the only movie theater in the world (probably) to operate on Unity for a couple weeks.
+- Software Interests: Game development, interactive media platforms, web & enterprise development, AI systems.
+- Non-Software Interests: History/geopolitics, creative writing, space exploration.
 - How to Reach Me: zachoriel96@gmail.com
 - I'm very good at adapting to legacy codebases and writing documentation. 
 
