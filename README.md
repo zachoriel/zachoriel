@@ -6,7 +6,7 @@ I'm Zach, I'm a software developer with a passion for clean architecture, though
 
 I occasionally publish curated public repos tied to specific projects or job applications.
 
-I have multiple active projects; feel free to check out the one that's currently public here: [Spellcircuit](https://github.com/zachoriel/Spellcircuit), or reach out if you'd like to see more (zachoriel96@gmail.com).
+I have multiple active projects; feel free to check out the two that are currently public here: [We Have C At Home](https://github.com/zachoriel/We-Have-C-At-Home) and [Spellcircuit](https://github.com/zachoriel/Spellcircuit), or reach out if you'd like to see more (zachoriel96@gmail.com).
 
 Thanks for stopping by! 🙂
 
