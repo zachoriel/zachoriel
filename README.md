@@ -23,9 +23,7 @@ Thanks for stopping by! 🙂
 <b>Fun Facts! (Because I like fun facts.)</b>
 - Botanically speaking, bananas are classified as berries, but strawberries aren't.
 - If you could fold a piece of paper 42 times, the thickness would surpass the average distance between Earth and the moon.
-- Chilchillas can jump over 6 feet upwards — and I happen to live with one who rules my apartment like a fuzzy, loveable tyrant.
 - Cleopatra lived closer in time to the modern day than to the construction of the pyramids.
-- The Anglo-Portuguese Alliance is the world's longest continuously existing alliance in history, dating back to 1373. It was last invoked in 1982 during the Falklands war, and before that in 1943 during World War Two — despite Portuguese President António de Oliveira Salazar being Axis-aligned in a dictatorial regime.
 - 94% of the universe's galaxies are pemanently beyond our sight. The universe is constantly expanding, and moreover, the galaxies within it are also <i>accelerating</i>; most galaxies are estimated to already be receding from us faster than the speed of light. This means that the light emitted from these galaxies will never reach us, and we've effectively missed our chance to observe nearly all of the universe, simply by being billions of years too late.
 
 <!--
