@@ -2,7 +2,9 @@
 
 I'm Zach, I'm a software developer with a passion for clean architecture, thoughtful systems design, and code that balances efficiency with creativity.
 
-I have multiple active projects; some are private, but feel free to check out the two that are currently public here: [We Have C At Home](https://github.com/zachoriel/We-Have-C-At-Home) and [Spellcircuit](https://github.com/zachoriel/Spellcircuit), or reach out if you'd like to see more (zachoriel96@gmail.com).
+I have multiple active projects; some are private, but feel free to check out my most recent public showcase here: [Custom C# Memory Allocator Case Study](https://github.com/zachoriel/We-Have-C-At-Home), or reach out if you'd like to see more (zachoriel96@gmail.com).
+
+You can also check out some of my code samples here: [Code Samples](https://github.com/zachoriel/code-snippets/blob/main/README.md).
 
 Thanks for stopping by! 🙂
 
