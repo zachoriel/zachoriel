@@ -14,11 +14,15 @@ Thanks for stopping by! 🙂
 
 - Education: Bachelor of Science in Computer Science from Southern New Hampshire University, graduated Summa Cum Laude with a 3.9 GPA. 
 - Core Skills: C#, Unity, TypeScript, JavaScript, Python, Git, CI/CD, Azure DevOps.
-- Ask Me About: The time I automated an entire team's art integration pipeline, or the time I made a small family business become the only movie theater in the world (probably) to operate on Unity for a couple weeks.
+- Ask Me About:
+  - The time I automated a team's entire art integration pipeline.
+  - The time I made an emergency point-of-sale system overnight for a small family business after their existing system suddenly went offline.
+  - The time I helped a client support devices 2 generations older than their previous min-spec by developing a dynamic performance monitoring system.
+  - The time I discovered that a "bug" in our game was actually just Howler.js abiding by Chrome's audio autoplay policy.
 - Software Interests: Game development, interactive media platforms, web & enterprise development, AI systems.
 - Non-Software Interests: History/geopolitics, creative writing, space exploration.
 - How to Reach Me: zachoriel96@gmail.com
-- I'm very good at adapting to legacy codebases and writing documentation. 
+- I'm very good at research, writing documentation, and maintaining legacy codebases.
 
 <b>Fun Facts! (Because I like fun facts.)</b>
 - Botanically speaking, bananas are classified as berries, but strawberries aren't.
