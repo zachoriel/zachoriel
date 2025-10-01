@@ -1,3 +1,5 @@
+<img width="1700" height="460" alt="github-header-banner" src="https://github.com/user-attachments/assets/f15cff33-ec8a-41be-8afe-7a427a24c019" />
+
 ## Hi there! 👋
 
 I'm Zach, I'm a software developer with a passion for clean architecture, thoughtful systems design, and code that balances efficiency with creativity.
