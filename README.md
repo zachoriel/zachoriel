@@ -2,7 +2,7 @@
 
 ## Hi there! 👋
 
-I'm Zach, I'm a software developer with a passion for clean architecture, thoughtful systems design, and code that balances efficiency with creativity.
+I'm Zach, I'm a software developer with a passion for clean architecture, systems design, and code that balances efficiency with creativity.
 
 I have multiple active projects; some are private, but feel free to check out my recent [Custom C# Memory Allocator Case Study](https://github.com/zachoriel/We-Have-C-At-Home) or [Safety-Critical QA Demonstration](https://github.com/zachoriel/SafetyCritical) projects! 
 
