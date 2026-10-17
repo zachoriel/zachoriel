@@ -2,13 +2,13 @@
 
 ## Hi there! 👋
 
-I'm Zach, I'm a software developer with a passion for clean architecture, performance optimization, systems design, and code that balances efficiency with creativity.
+I'm Zach, I'm a software developer with four years of professional experience in software development (and roughly nine years total as a hobbyist), and a passion for clean architecture, performance optimization, systems design, and code that balances efficiency with creativity.
 
 I keep my account mostly private, but if you'd like to see a sample of what I can do, here's a project that I'm especially proud of: [Custom C# Memory Allocator Case Study](https://github.com/zachoriel/We-Have-C-At-Home).
 
-If you'd like to see more, feel free to reach out at zachoriel96@gmail.com.
-
 You can also check out some of my [Code Samples](https://github.com/zachoriel/code-snippets/blob/main/README.md).
+
+If you'd like to see more, feel free to reach out at zachoriel96@gmail.com.
 
 Thanks for stopping by! 🙂
 
