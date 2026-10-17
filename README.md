@@ -15,7 +15,7 @@ Thanks for stopping by! 🙂
 <b>About Me:</b>
 
 - Education: Bachelor of Science in Computer Science from Southern New Hampshire University, graduated Summa Cum Laude with a 3.9 GPA. 
-- Core Skills: C#, Unity, TypeScript, JavaScript, Python, Git, CI/CD, Azure DevOps.
+- Core Skills: C#, TypeScript, JavaScript, Python, C++, Unity, Git, CI/CD, Azure DevOps.
 - Ask Me About:
   - The time I automated a team's entire art integration pipeline.
   - The time I made an emergency point-of-sale system overnight for a small family business after their existing system suddenly went offline.
