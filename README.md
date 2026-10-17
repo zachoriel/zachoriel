@@ -2,9 +2,9 @@
 
 ## Hi there! 👋
 
-I'm Zach, I'm a software developer with a passion for clean architecture, systems design, and code that balances efficiency with creativity.
+I'm Zach, I'm a software developer with a passion for clean architecture, performance optimization, systems design, and code that balances efficiency with creativity.
 
-I have multiple active projects; some are private, but feel free to check out my recent [Custom C# Memory Allocator Case Study](https://github.com/zachoriel/We-Have-C-At-Home) or [Safety-Critical QA Demonstration](https://github.com/zachoriel/SafetyCritical) projects! 
+I keep my account mostly private, but if you'd like to see a sample of what I can do, here's a project that I'm especially proud of: [Custom C# Memory Allocator Case Study](https://github.com/zachoriel/We-Have-C-At-Home).
 
 If you'd like to see more, feel free to reach out at zachoriel96@gmail.com.
 
@@ -21,16 +21,16 @@ Thanks for stopping by! 🙂
   - The time I made an emergency point-of-sale system overnight for a small family business after their existing system suddenly went offline.
   - The time I helped a client support devices 2 generations older than their previous min-spec by developing a dynamic performance monitoring system.
   - The time I discovered that a "bug" in our game was actually just Howler.js abiding by Chrome's audio autoplay policy.
-- Software Interests: Game development, interactive media platforms, web & enterprise development, AI systems.
-- Non-Software Interests: History/geopolitics, creative writing, space exploration.
+- Software Interests: Tools development, performance optimization, application development, game development.
+- Non-Software Interests: History, geopolitics & foreign affairs, creative writing, space exploration.
 - How to Reach Me: zachoriel96@gmail.com
-- I'm very good at research, writing documentation, and maintaining legacy codebases.
+- I'm very good at research, documentation, and maintaining legacy codebases.
 
 <b>Fun Facts! (Because I like fun facts.)</b>
-- Botanically speaking, bananas are classified as berries, but strawberries aren't.
+- Botanically, bananas are classified as berries, but strawberries aren't.
 - If you could fold a piece of paper 42 times, the thickness would surpass the average distance between Earth and the moon.
 - Cleopatra lived closer in time to the modern day than to the construction of the pyramids.
-- 94% of the universe's galaxies are pemanently beyond our sight. The universe is constantly expanding, and moreover, the galaxies within it are also <i>accelerating</i>; most galaxies are estimated to already be receding from us faster than the speed of light. This means that the light emitted from these galaxies will never reach us, and we've effectively missed our chance to observe nearly all of the universe, simply by being billions of years too late.
+- 94% of the universe's galaxies are permanently beyond our sight. The universe is constantly expanding, and moreover, the galaxies within it are also <i>accelerating</i>; most galaxies are estimated to already be receding from us faster than the speed of light. This means that the light emitted from these galaxies will never reach us, and we've effectively missed our chance to observe nearly all of the universe, simply by being billions of years too late.
 
 <!--
 **zachoriel/zachoriel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
